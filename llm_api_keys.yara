@@ -1,5 +1,3 @@
-looks liek this one is working for me:
-
 rule DetectAPIKeys {
     meta:
         description = "Detect OpenAI, Anthropic, and Google API keys"
